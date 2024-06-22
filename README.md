@@ -21,7 +21,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
 - [Another contact method, e.g., professional email]
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronmedhavi&show_icons=true&theme=radical)
 
 ## 🚀 Projects
 <div align="center">
