@@ -4,26 +4,6 @@
 Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about developing games, learning about them, and making a positive impact with it. 
 
 ## 🔭 What I'm Currently Working On
-- [Project or area of focus]
-- [Another project or learning goal]
-
-## 🌱 I'm Currently Learning
-- [Technology, language, or skill you're learning]
-- [Another area of study]
-
-## 💼 Skills
-- **Languages:** [e.g., JavaScript, Python, Java]
-- **Frameworks/Libraries:** [e.g., React, Node.js, Django]
-- **Tools:** [e.g., Git, Docker, AWS]
-
-## 📫 How to Reach Me
-- [Your preferred contact method, e.g., LinkedIn profile]
-- [Another contact method, e.g., professional email]
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronmedhavi&show_icons=true&theme=radical)
-
-## 🚀 Projects
 <div align="center">
   <table>
     <tr>
@@ -70,6 +50,22 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
     </tr>
   </table>
 </div>
+
+## 🌱 I'm Currently Learning
+- [Technology, language, or skill you're learning]
+- [Another area of study]
+
+## 💼 Skills
+- **Languages:** [e.g., JavaScript, Python, Java]
+- **Frameworks/Libraries:** [e.g., React, Node.js, Django]
+- **Tools:** [e.g., Git, Docker, AWS]
+
+## 📫 How to Reach Me
+- [Your preferred contact method, e.g., LinkedIn profile]
+- [Another contact method, e.g., professional email]
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronmedhavi&show_icons=true&theme=radical)
 
 ---
 
