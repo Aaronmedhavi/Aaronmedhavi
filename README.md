@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi there! I'm [Your Name], a [your profession/field] passionate about [your interests related to coding/technology]. 
+Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about developing games, learning about them, and making a positive impact with it. 
 
 ## 🔭 What I'm Currently Working On
 - [Project or area of focus]
