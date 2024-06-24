@@ -11,7 +11,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
         <h3 align="center">Pong Star</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/Pong2D-GameProg' target="_blank">
-            <img src="https://github.com/YourUsername/Project1/raw/main/images/project1.png" alt="Project 1" width="100%" />
+            <img src="https://github.com/Aaronmedhavi/Pong2D-GameProg/blob/main/Screenshot 2024-06-20 103409.png?raw=true" alt="Project 1" width="100%" />
           </a>
           <br>
           <br>
