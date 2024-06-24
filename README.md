@@ -16,7 +16,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
           <br>
           <br>
           <p>
-            <a href="https://github.com/YourUsername/Project1" target="_blank">
+            <a href="https://github.com/Aaronmedhavi/Pong2D-GameProg" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://project1.com" target="_blank">
