@@ -10,7 +10,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <div align="center">  
-          <a href='https://github.com/YourUsername/Project1' target="_blank">
+          <a href='https://github.com/Aaronmedhavi/Project1' target="_blank">
             <img src="https://github.com/YourUsername/Project1/raw/main/images/project1.png" alt="Project 1" width="100%" />
           </a>
           <br>
