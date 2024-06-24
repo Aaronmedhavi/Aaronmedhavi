@@ -8,7 +8,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Project 1</h3>
+        <h3 align="center">Pong Star</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/Pong2D-GameProg' target="_blank">
             <img src="https://github.com/YourUsername/Project1/raw/main/images/project1.png" alt="Project 1" width="100%" />
