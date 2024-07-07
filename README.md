@@ -31,7 +31,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
         <h3 align="center">Project 2</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/SideScroll-GameProg' target="_blank">
-            <img src="https://github.com/YourUsername/Project2/raw/main/images/project2.png" alt="Project 2" width="100%" />
+            <img src="https://github.com/Aaronmedhavi/SideScroll-GameProg/blob/main/Screenshot 2024-07-07 222101.png?raw=true" alt="Project 2" width="100%" />
           </a>
           <br>
           <br>
