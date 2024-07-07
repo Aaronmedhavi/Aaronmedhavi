@@ -30,13 +30,13 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
       <td width="50%">
         <h3 align="center">Project 2</h3>
         <div align="center">  
-          <a href='https://github.com/YourUsername/Project2' target="_blank">
+          <a href='https://github.com/Aaronmedhavi/SideScroll-GameProg' target="_blank">
             <img src="https://github.com/YourUsername/Project2/raw/main/images/project2.png" alt="Project 2" width="100%" />
           </a>
           <br>
           <br>
           <p>
-            <a href="https://github.com/YourUsername/Project2" target="_blank">
+            <a href="https://github.com/Aaronmedhavi/SideScroll-GameProg" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://project2.com" target="_blank">
