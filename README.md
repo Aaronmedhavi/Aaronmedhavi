@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about developing games, learning about them, and making a positive impact with it. 
+Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences. 
 
 ## 🔭 What I'm Currently Working On
 <div align="center">
@@ -23,7 +23,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
               <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
             </a>
           </p>
-          <p><strong>Technologies Used:</strong> React, Node.js, MongoDB</p>
+          <p><strong>Technologies Used:</strong> C#, Unity</p>
           <p>A brief description of Project 1. What it does, the problem it solves, or its main features.</p>
         </div>
       </td>
@@ -43,7 +43,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
               <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
             </a>
           </p>
-          <p><strong>Technologies Used:</strong> Python, Django, PostgreSQL</p>
+          <p><strong>Technologies Used:</strong> C#, Unity, JSON</p>
           <p>A brief description of Project 2. What it does, the problem it solves, or its main features.</p>
         </div>
       </td>
@@ -56,13 +56,11 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
 - [Another area of study]
 
 ## 💼 Skills
-- **Languages:** [e.g., JavaScript, Python, Java]
-- **Frameworks/Libraries:** [e.g., React, Node.js, Django]
-- **Tools:** [e.g., Git, Docker, AWS]
+- **Languages:** C#, C, Python
+- **Tools:** Unity, Aseprite, Blender
 
 ## 📫 How to Reach Me
-- [Your preferred contact method, e.g., LinkedIn profile]
-- [Another contact method, e.g., professional email]
+- **Email:** aaronmedhavi@gmail.com
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronmedhavi&show_icons=true&theme=radical)
