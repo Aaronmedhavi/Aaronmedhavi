@@ -19,8 +19,8 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             <a href="https://github.com/Aaronmedhavi/Pong2D-GameProg" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://project1.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+            <a href="https://aaronmedhavi.itch.io/" target="_blank">
+              <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
@@ -39,8 +39,8 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             <a href="https://github.com/Aaronmedhavi/SideScroll-GameProg" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://project2.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+            <a href="https://aaronmedhavi.itch.io/" target="_blank">
+              <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity, JSON</p>
