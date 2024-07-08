@@ -31,7 +31,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, a game developer passionate about develop
         <h3 align="center">A Warriors Journey</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/SideScroll-GameProg' target="_blank">
-            <img src="https://github.com/Aaronmedhavi/SideScroll-GameProg/blob/main/Screenshot 2024-07-07 222101.png?raw=true" alt="Project 2" width="100%" />
+            <img src="https://github.com/Aaronmedhavi/SideScroll-GameProg/blob/main/Untitled video - Made with Clipchamp (2).gif?raw=true" alt="Project 2" width="100%" />
           </a>
           <br>
           <br>
