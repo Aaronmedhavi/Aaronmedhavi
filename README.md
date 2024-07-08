@@ -44,7 +44,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity, JSON</p>
-          <p>A Warriors Journey is an exciting 2D sidescroller game developed using the Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.
+          <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.
 </p>
         </div>
       </td>
