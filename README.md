@@ -20,7 +20,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://aaronmedhavi.itch.io/" target="_blank">
-              <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
+              <img src="https://img.shields.io/badge/Itch.io-151515?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
@@ -40,7 +40,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://aaronmedhavi.itch.io/" target="_blank">
-              <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
+              <img src="https://img.shields.io/badge/Itch.io-151515?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity, JSON</p>
