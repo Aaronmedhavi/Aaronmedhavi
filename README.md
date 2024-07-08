@@ -52,10 +52,6 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
   </table>
 </div>
 
-## 🌱 I'm Currently Learning
-- [Technology, language, or skill you're learning]
-- [Another area of study]
-
 ## 💼 Skills
 - **Languages:** C#, C, Python
 - **Tools:** Unity, Aseprite, Blender
