@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences that can be enjoyed by all kinds of people. 
+Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences that can be enjoyed by all kinds of people.
 
 ## 🔭 What I'm Currently Working On
 <div align="center">
@@ -18,9 +18,6 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
           <p>
             <a href="https://github.com/Aaronmedhavi/Pong2D-GameProg" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://aaronmedhavi.itch.io/" target="_blank">
-              <img src="https://img.shields.io/badge/Itch.io-151515?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
@@ -38,14 +35,29 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
           <p>
             <a href="https://github.com/Aaronmedhavi/SideScroll-GameProg" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://aaronmedhavi.itch.io/" target="_blank">
-              <img src="https://img.shields.io/badge/Itch.io-151515?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity, JSON</p>
-          <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.
-</p>
+          <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" width="100%">
+        <h3 align="center">Mystical Adventure</h3>
+        <div align="center">
+          <a href='https://github.com/Aaronmedhavi/MysticalAdventure-GameProg' target="_blank">
+            <img src="https://github.com/Aaronmedhavi/MysticalAdventure-GameProg/blob/main/Untitled video - Made with Clipchamp.gif?raw=true" alt="Project 3" width="80%" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/Aaronmedhavi/MysticalAdventure-GameProg" target="_blank">
+              <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>
+          </p>
+          <p><strong>Technologies Used:</strong> C#, Unity, 3D Assets</p>
+          <p>Mystical Adventure is a thrilling 3D action-adventure game set in a magical world. Players explore enchanted forests, solve puzzles, and engage in fast-paced combat to uncover hidden secrets.</p>
         </div>
       </td>
     </tr>
@@ -64,4 +76,4 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
 
 ---
 
-⭐️ From Aaronmedhavi(https://github.com/Aaronmedhavi)
+⭐️ From [Aaronmedhavi](https://github.com/Aaronmedhavi)
