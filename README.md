@@ -44,19 +44,19 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Mystical Adventure</h3>
+        <h3 align="center">Zero Hour Assault</h3>
         <div align="center">  
-          <a href='https://github.com/Aaronmedhavi/MysticalAdventure-GameProg' target="_blank">
+          <a href='https://github.com/Aaronmedhavi/FPS-Unity-Game' target="_blank">
             <img src="https://github.com/Aaronmedhavi/MysticalAdventure-GameProg/blob/main/Untitled video - Made with Clipchamp.gif?raw=true" alt="Project 3" width="100%" />
           </a>
           <br>
           <br>
           <p>
-            <a href="https://github.com/Aaronmedhavi/MysticalAdventure-GameProg" target="_blank">
+            <a href="https://github.com/Aaronmedhavi/FPS-Unity-Game" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>
           </p>
-          <p><strong>Technologies Used:</strong> C#, Unity, 3D Assets</p>
+          <p><strong>Technologies Used:</strong> C#, Unity</p>
           <p>Mystical Adventure is a thrilling 3D action-adventure game set in a magical world. Players explore enchanted forests, solve puzzles, and engage in fast-paced combat to uncover hidden secrets.</p>
         </div>
       </td>
