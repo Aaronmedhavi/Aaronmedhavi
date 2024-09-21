@@ -4,10 +4,10 @@
 Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences that can be enjoyed by all kinds of people.
 
 ## 🔭 What I'm Currently Working On
-<div align="center">
-  <table>
+<div align="center" style="background-color:#0d1117; padding:10px;">
+  <table style="background-color:#0d1117; border: 0;">
     <tr>
-      <td width="50%">
+      <td width="50%" style="padding: 10px;">
         <h3 align="center">Pong Star</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/Pong2D-GameProg' target="_blank">
@@ -24,7 +24,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
           <p>Pong Star is a 2D space-themed take of the classic Pong game, developed using Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars.</p>
         </div>
       </td>
-      <td width="50%">
+      <td width="50%" style="padding: 10px;">
         <h3 align="center">A Warriors Journey</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/SideScroll-GameProg' target="_blank">
@@ -43,7 +43,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
       </td>
     </tr>
     <tr>
-      <td colspan="2" width="100%">
+      <td colspan="2" width="100%" style="padding: 10px;">
         <h3 align="center">Mystical Adventure</h3>
         <div align="center">
           <a href='https://github.com/Aaronmedhavi/MysticalAdventure-GameProg' target="_blank">
