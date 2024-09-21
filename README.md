@@ -43,7 +43,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
       </td>
     </tr>
     <tr>
-      <td width="100%">
+      <td colspan="2" width="100%">
         <h3 align="center">Epic Adventure</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/Epic-Adventure' target="_blank">
@@ -76,4 +76,4 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
 
 ---
 
-⭐️ From Aaronmedhavi(https://github.com/Aaronmedhavi)
+⭐️ From Aaronmedhavi([https://github.com/Aaronmedhavi](https://github.com/Aaronmedhavi))
