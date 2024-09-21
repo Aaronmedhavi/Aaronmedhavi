@@ -7,11 +7,11 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
 <div align="center">
   <table>
     <tr>
-      <td width="33%">
+      <td width="50%">
         <h3 align="center">Pong Star</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/Pong2D-GameProg' target="_blank">
-            <img src="https://github.com/Aaronmedhavi/Pong2D-GameProg/blob/main/Untitled video - Made with Clipchamp (2).gif?raw=true" alt="Project 1" width="100%" />
+            <img src="https://github.com/Aaronmedhavi/Pong2D-GameProg/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif?raw=true" alt="Pong Star" width="100%" />
           </a>
           <br>
           <br>
@@ -24,11 +24,11 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
           <p>Pong Star is a 2D space-themed take on the classic Pong game, developed using the Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars.</p>
         </div>
       </td>
-      <td width="34%">
+      <td width="50%">
         <h3 align="center">A Warriors Journey</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/SideScroll-GameProg' target="_blank">
-            <img src="https://github.com/Aaronmedhavi/SideScroll-GameProg/blob/main/Untitled video - Made with Clipchamp (2).gif?raw=true" alt="Project 2" width="100%" />
+            <img src="https://github.com/Aaronmedhavi/SideScroll-GameProg/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif?raw=true" alt="A Warriors Journey" width="100%" />
           </a>
           <br>
           <br>
@@ -41,7 +41,9 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
           <p>A Warriors Journey is an exciting 2D sidescroller game developed using the Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.</p>
         </div>
       </td>
-      <td width="33%">
+    </tr>
+    <tr>
+      <td colspan="2" width="100%">
         <h3 align="center">[Your New Project]</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/[Your-New-Project-Repo]' target="_blank">
