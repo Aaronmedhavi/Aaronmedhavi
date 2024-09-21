@@ -7,7 +7,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="33%">
         <h3 align="center">Pong Star</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/Pong2D-GameProg' target="_blank">
@@ -19,15 +19,12 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             <a href="https://github.com/Aaronmedhavi/Pong2D-GameProg" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://aaronmedhavi.itch.io/" target="_blank">
-              <img src="https://img.shields.io/badge/Itch.io-151515?style=for-the-badge&logo=itch.io"/>
-            </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
-          <p>Pong Star is a 2D space-themed take of the classic Pong game, developed using Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars.</p>
+          <p>Pong Star is a 2D space-themed take on the classic Pong game, developed using the Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars.</p>
         </div>
       </td>
-      <td width="50%">
+      <td width="34%">
         <h3 align="center">A Warriors Journey</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/SideScroll-GameProg' target="_blank">
@@ -39,13 +36,26 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             <a href="https://github.com/Aaronmedhavi/SideScroll-GameProg" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://aaronmedhavi.itch.io/" target="_blank">
-              <img src="https://img.shields.io/badge/Itch.io-151515?style=for-the-badge&logo=itch.io"/>
-            </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity, JSON</p>
-          <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.
-</p>
+          <p>A Warriors Journey is an exciting 2D sidescroller game developed using the Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.</p>
+        </div>
+      </td>
+      <td width="33%">
+        <h3 align="center">[Your New Project]</h3>
+        <div align="center">  
+          <a href='https://github.com/Aaronmedhavi/[Your-New-Project-Repo]' target="_blank">
+            <img src="[Your-Project-GIF-URL]" alt="Project 3" width="100%" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/Aaronmedhavi/[Your-New-Project-Repo]" target="_blank">
+              <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+          </p>
+          <p><strong>Technologies Used:</strong> [Your Technologies]</p>
+          <p>[A brief description of your new project.]</p>
         </div>
       </td>
     </tr>
