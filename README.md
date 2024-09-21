@@ -44,20 +44,20 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
     </tr>
     <tr>
       <td colspan="2" width="100%">
-        <h3 align="center">[Your New Project]</h3>
+        <h3 align="center">Epic Adventure</h3>
         <div align="center">  
-          <a href='https://github.com/Aaronmedhavi/[Your-New-Project-Repo]' target="_blank">
-            <img src="[Your-Project-GIF-URL]" alt="Project 3" width="100%" />
+          <a href='https://github.com/Aaronmedhavi/Epic-Adventure' target="_blank">
+            <img src="https://github.com/Aaronmedhavi/Epic-Adventure/blob/main/demo.gif?raw=true" alt="Epic Adventure" width="100%" />
           </a>
           <br>
           <br>
           <p>
-            <a href="https://github.com/Aaronmedhavi/[Your-New-Project-Repo]" target="_blank">
+            <a href="https://github.com/Aaronmedhavi/Epic-Adventure" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
           </p>
-          <p><strong>Technologies Used:</strong> [Your Technologies]</p>
-          <p>[A brief description of your new project.]</p>
+          <p><strong>Technologies Used:</strong> C++, Unreal Engine</p>
+          <p>Epic Adventure is a 3D action-adventure game that takes players through stunning landscapes, challenging puzzles, and intense combat scenarios.</p>
         </div>
       </td>
     </tr>
