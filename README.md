@@ -71,9 +71,6 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
 ## 📫 How to Reach Me
 - **Email:** aaronmedhavi@gmail.com
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaronmedhavi&show_icons=true&theme=radical)
-
 ---
 
 ⭐️ From [Aaronmedhavi](https://github.com/Aaronmedhavi)
