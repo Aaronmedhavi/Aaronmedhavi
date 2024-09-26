@@ -71,6 +71,4 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
 ## 📫 How to Reach Me
 - **Email:** aaronmedhavi@gmail.com
 
----
-
 ⭐️ From [Aaronmedhavi](https://github.com/Aaronmedhavi)
