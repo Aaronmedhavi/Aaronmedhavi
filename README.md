@@ -45,7 +45,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
         <h3 align="center">Zero Hour Assault</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/FPS-Unity-Game' target="_blank">
-            <img src="https://github.com/Aaronmedhavi/FPS-Unity-Game/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif?raw=true" alt="Project 3" width="100%" />
+            <img src="https://github.com/Aaronmedhavi/FPS-Unity-Game/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif?raw=true" alt="Project 3" width="100%" />
           </a>
           <br>
           <br>
