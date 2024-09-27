@@ -57,7 +57,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
-          <p>Zero Hour Assault is an intense first-person shooter where you play as a lone soldier battling enemy forces in a war-torn city. Navigate crumbling streets, engage in close-quarters combat, and use the urban environment to outsmart your enemies. Survival depends on quick reflexes and strategic strikes in this high-stakes fight for survival.</p>
+          <p>Zero Hour Assault is an intense first-person shooter where you play as a lone soldier battling enemy forces in a city. Navigate streets, engage in close-quarters combat, and use the urban environment to outsmart your enemies. Survival depends on quick reflexes and strategic strikes in this high-stakes fight for survival.</p>
         </div>
       </td>
     </tr>
