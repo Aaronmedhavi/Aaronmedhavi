@@ -1,8 +1,6 @@
 # Welcome to My GitHub Profile! 👋
-
 ## About Me
 Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences that can be enjoyed by all kinds of people.
-
 ## 🔭 What I'm Currently Working On
 <div align="center">
   <table>
@@ -60,15 +58,32 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
           <p>Zero Hour Assault is an intense first-person shooter where you play as a lone soldier battling enemy forces in a city. Navigate streets, engage in close-quarters combat, and use the urban environment to outsmart your enemies. Survival depends on quick reflexes and strategic strikes in this high-stakes fight for survival.</p>
         </div>
       </td>
+	  <td width="50%">
+        <h3 align="center">New Project Name</h3>
+        <div align="center">  
+          <a href='https://github.com/Aaronmedhavi/New-Project-Repo' target="_blank">
+            <img src="https://via.placeholder.com/300x150/f0f0f0?text=Placeholder+Image" alt="Project 4" width="100%" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/Aaronmedhavi/New-Project-Repo" target="_blank">
+              <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>
+          </p>
+          <p><strong>Technologies Used:</strong> [List Technologies]</p>
+          <p>[Brief Description of the New Project]</p>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
 
 ## 💼 Skills
-- **Languages:** C#, C, Python
-- **Tools:** Unity, Aseprite, Blender
+- Languages: C#, C, Python
+- Tools: Unity, Aseprite, Blender
 
 ## 📫 How to Reach Me
-- **Email:** aaronmedhavi@gmail.com
+- Email: aaronmedhavi@gmail.com
 
 ⭐️ From [Aaronmedhavi](https://github.com/Aaronmedhavi)
