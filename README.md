@@ -59,20 +59,20 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
         </div>
       </td>
 	  <td width="50%">
-        <h3 align="center">New Project Name</h3>
+        <h3 align="center">Velocity Pursuit</h3>
         <div align="center">  
-          <a href='https://github.com/Aaronmedhavi/New-Project-Repo' target="_blank">
-            <img src="https://via.placeholder.com/300x150/f0f0f0?text=Placeholder+Image" alt="Project 4" width="100%" />
+          <a href='https://github.com/Aaronmedhavi/Racing-Unity-Game' target="_blank">
+            <img src="https://github.com/Aaronmedhavi/Racing-Unity-Game/blob/main/Racegif%20-%20Made%20with%20Clipchamp.gif" alt="Project 4" width="100%" />
           </a>
           <br>
           <br>
           <p>
-            <a href="https://github.com/Aaronmedhavi/New-Project-Repo" target="_blank">
+            <a href="https://github.com/Aaronmedhavi/Racing-Unity-Game" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>
           </p>
-          <p><strong>Technologies Used:</strong> [List Technologies]</p>
-          <p>[Brief Description of the New Project]</p>
+          <p><strong>Technologies Used:</strong> C#, Unity</p>
+          <p>Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes pursuits. Customize your vehicles, strategize your moves, and dominate diverse environments to become the ultimate racing champion in this exhilarating adventure.</p>
         </div>
       </td>
     </tr>
