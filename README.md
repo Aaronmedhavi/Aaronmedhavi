@@ -18,7 +18,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>
             <a href="https://aaronmedhavi.itch.io/pong-star" target="_blank">
-              <img src="https://img.shields.io/badge/Play-itch.io-red?style=for-the-badge&logo=itch.io"/>
+              <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
@@ -38,7 +38,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>
             <a href="https://aaronmedhavi.itch.io/a-warriors-journey" target="_blank">
-              <img src="https://img.shields.io/badge/Play-itch.io-red?style=for-the-badge&logo=itch.io"/>
+              <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity, JSON</p>
@@ -60,7 +60,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>
             <a href="https://aaronmedhavi.itch.io/zero-hour-assault" target="_blank">
-              <img src="https://img.shields.io/badge/Play-itch.io-red?style=for-the-badge&logo=itch.io"/>
+              <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
@@ -80,7 +80,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>
             <a href="https://aaronmedhavi.itch.io/velocity-pursuit" target="_blank">
-              <img src="https://img.shields.io/badge/Play-itch.io-red?style=for-the-badge&logo=itch.io"/>
+              <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
