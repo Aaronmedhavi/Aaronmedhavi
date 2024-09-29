@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 ## About Me
-Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about cre[...]
+Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences that can be enjoyed by all kinds of people.
 ## 🔭 What I'm Currently Working On
 <div align="center">
   <table>
@@ -22,7 +22,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
-          <p>Pong Star is a 2D space-themed take of the classic Pong game, developed using Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment fi[...]
+          <p>Pong Star is a 2D space-themed take of the classic Pong game, developed using Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars.
         </div>
       </td>
       <td width="50%">
@@ -42,7 +42,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity, JSON</p>
-          <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemie[...]
+          <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.
         </div>
       </td>
     </tr>
@@ -64,7 +64,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
-          <p>Zero Hour Assault is an intense first-person shooter where you play as a lone soldier battling enemy forces in a city. Navigate streets, engage in close-quarters combat, and use the urban[...]
+          <p>Zero Hour Assault is an intense first-person shooter where you play as a lone soldier battling enemy forces in a city. Navigate streets, engage in close-quarters combat, and use the urban environment to outsmart your enemies. Survival depends on quick reflexes and strategic strikes in this high-stakes fight for survival.
         </div>
       </td>
       <td width="50%">
@@ -84,7 +84,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Technologies Used:</strong> C#, Unity</p>
-          <p>Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes pursuits. Customize your vehicles, strategize your moves[...]
+          <p>Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes pursuits. Customize your vehicles, strategize your moves, and dominate diverse environments to become the ultimate racing champion in this exhilarating adventure.
         </div>
       </td>
     </tr>
