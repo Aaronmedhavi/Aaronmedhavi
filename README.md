@@ -41,7 +41,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p><strong>Techniques Used:</strong> C#, JSON</p>
+          <p><strong>Techniques Used:</strong> C#, JSON, Tilemap</p>
           <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.
         </div>
       </td>
