@@ -21,8 +21,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p><strong>Methods Used:</strong> C#, NavMesh, State Machine</p>
-          <p>Zero Hour Assault is a first-person shooter where you play as a lone soldier battling enemy forces in a city. Navigate streets, engage in close-quarters combat, and use the urban environment to outsmart your enemies. Survival depends on quick reflexes and strategic strikes in this high-stakes fight for survival.
+          <p>Zero Hour Assault is a first-person shooter where you play as a lone soldier battling enemy forces in a city. Navigate streets, engage in close-quarters combat, and use the urban environment to outsmart your enemies. As the programmer for this project, I handle all the main aspects for this game which includes player movement, NavMesh, state machine, and weapon mechanics.
         </div>
       </td>
       <td width="50%">
@@ -42,7 +41,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Methods Used:</strong> C#, Cinemachine, Terrain, RoadArchitect</p>
-          <p>Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes pursuits. Customize your vehicles, strategize your moves, and dominate diverse environments to become the ultimate racing champion in this exhilarating adventure.
+          <p>Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes pursuits. As a solo developer, I created the main level using terrain and RoadArchitect. I use cinemachine in order to get the camera to follow the car.
         </div>
       </td>
     </tr>
@@ -64,7 +63,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Methods Used:</strong> C#, Photon</p>
-          <p>Pong Star is a 2D space-themed take of the classic Pong game, developed using Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars.
+          <p>Pong Star is a 2D space-themed take of the classic Pong game. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars. As the programmer, I coded the main ball, player, and scoring mechanic. I also implement a photon multiplayer into the game that allows player to play multiplayer from different devices.
         </div>
       </td>
       <td width="50%">
@@ -84,7 +83,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
             </a>
           </p>
           <p><strong>Methods Used:</strong> C#, JSON, Tilemap</p>
-          <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.
+          <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game. As the programmer, I created the main player and enemy movement, health, and attack mechanics. I also handle the level design using a tilemap and handle the save game mechanic using JSON. 
         </div>
       </td>
     </tr>
