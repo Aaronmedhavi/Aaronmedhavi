@@ -21,7 +21,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p><strong>Techniques Used:</strong> C#</p>
+          <p><strong>Methods Used:</strong> C#</p>
           <p>Pong Star is a 2D space-themed take of the classic Pong game, developed using Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars.
         </div>
       </td>
@@ -41,7 +41,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p><strong>Techniques Used:</strong> C#, JSON, Tilemap</p>
+          <p><strong>Methods Used:</strong> C#, JSON, Tilemap</p>
           <p>A Warriors Journey is an exciting 2D sidescroller game developed using Unity game engine. Embark on an adventure through beautifully crafted levels, overcome challenges, and defeat enemies as you progress through the game.
         </div>
       </td>
@@ -63,7 +63,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p><strong>Techniques Used:</strong> C#, NavMesh, State Machine, Singleton</p>
+          <p><strong>Methods Used:</strong> C#, NavMesh, State Machine</p>
           <p>Zero Hour Assault is an intense first-person shooter where you play as a lone soldier battling enemy forces in a city. Navigate streets, engage in close-quarters combat, and use the urban environment to outsmart your enemies. Survival depends on quick reflexes and strategic strikes in this high-stakes fight for survival.
         </div>
       </td>
@@ -83,7 +83,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p><strong>Techniques Used:</strong> C#, Cinemachine, Terrain, RoadArchitect</p>
+          <p><strong>Methods Used:</strong> C#, Cinemachine, Terrain, RoadArchitect</p>
           <p>Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes pursuits. Customize your vehicles, strategize your moves, and dominate diverse environments to become the ultimate racing champion in this exhilarating adventure.
         </div>
       </td>
