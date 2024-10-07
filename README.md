@@ -21,7 +21,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p><strong>Methods Used:</strong> C#, Photon PUN</p>
+          <p><strong>Methods Used:</strong> C#, Photon</p>
           <p>Pong Star is a 2D space-themed take of the classic Pong game, developed using Unity game engine. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars.
         </div>
       </td>
