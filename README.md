@@ -28,7 +28,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
         <h3 align="center">Velocity Pursuit</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/Racing-Unity-Game' target="_blank">
-            <img src="https://github.com/Aaronmedhavi/Racing-Unity-Game/blob/main/Racegif%20-%20Made%20with%20Clipchamp.gif" alt="Project 4" width="100%" />
+            <img src="https://github.com/Aaronmedhavi/Racing-Unity-Game/blob/main/racingsss - Made with Clipchamp.gif" alt="Project 4" width="100%" />
           </a>
           <br>
           <br>
