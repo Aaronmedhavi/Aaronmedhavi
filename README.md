@@ -40,7 +40,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p>Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes pursuits. As a solo developer, I created the main level using terrain and RoadArchitect. I use cinemachine in order to get the camera to follow the car.
+          <p>Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes pursuits. As a solo developer, I created the main level using terrain and RoadArchitect and the main car controller mechanic with joystick integration. I also use cinemachine in order to get the camera to follow the car.
         </div>
       </td>
     </tr>
