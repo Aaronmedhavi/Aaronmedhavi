@@ -61,7 +61,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p>Pong Star is a 2D space-themed take of the classic Pong game. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars. As the programmer, I coded the main ball, player, and scoring mechanic. I also implement a photon multiplayer into the game that allows player to play multiplayer from different devices.
+          <p>Pong Star is a 2D space-themed take of the classic Pong game. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars. As the programmer, I coded the main ball, player, and scoring mechanic. I also implement a netcode multiplayer into the game that allows player to play multiplayer from different devices.
         </div>
       </td>
       <td width="50%">
