@@ -1,9 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-## About Me
-Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences that can be enjoyed by all kinds of people.
-
-## 🔭 What I'm Currently Working On
+## 🔭 My Projects
 
 <div align="center">
 
@@ -22,6 +19,9 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
 | [Play Game](https://aaronmedhavi.itch.io/pong-star) | [Play Game](https://aaronmedhavi.itch.io/a-warriors-journey) |
 
 </div>
+
+## About Me
+Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences that can be enjoyed by all kinds of people.
 
 ## 💼 Skills
 - Languages: C#, C, Python
