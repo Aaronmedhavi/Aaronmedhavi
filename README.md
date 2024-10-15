@@ -46,7 +46,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Pong Star</h3>
+        <h3 align="center">Pong Star Online Multiplayer</h3>
         <div align="center">  
           <a href='https://github.com/Aaronmedhavi/Pong2D-GameProg' target="_blank">
             <img src="https://github.com/Aaronmedhavi/Pong2D-GameProg/blob/main/Untitled video - Made with Clipchamp (2).gif?raw=true" alt="Project 1" width="100%" />
@@ -61,7 +61,7 @@ Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantar
               <img src="https://img.shields.io/badge/Play-black?style=for-the-badge&logo=itch.io"/>
             </a>
           </p>
-          <p>Pong Star is a 2D space-themed take of the classic Pong game. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars. As the programmer, I coded the main ball, player, and scoring mechanic. I also implement a netcode multiplayer into the game that allows player to play multiplayer from different devices.
+          <p>Pong Star is a 2D space-themed take of the classic Pong game. In this game, players control ships to hit a ball back and forth in a space environment filled with planets and stars. As the programmer, I coded the main ball, player, and scoring mechanic. I also implement a unity netcode multiplayer into the game that allows player to play multiplayer from different devices.
         </div>
       </td>
       <td width="50%">
