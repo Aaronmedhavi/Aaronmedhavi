@@ -19,7 +19,7 @@
 </div>
 
 ## About Me
-Hi there! I'm Aaron Medhavi Kusnandar, an undergraduate student at Bina Nusantara University pursuing a degree in Game Application & Technology. As an aspiring game developer, I'm passionate about creating immersive, engaging, and fun gaming experiences that can be enjoyed by all kinds of people.
+Hi there! I'm Aaron, an undergraduate student at Bina Nusantara University in Game Application & Technology. As an aspiring game programmer, I'm passionate about creating immersive, engaging, fun gaming experiences that can be enjoyed by all kinds of people, and continuing to strive for innovation and creativity. I also have experience in sound design, level design, and game writer.
 
 ## 💼 Skills
 - Languages: C#, C, Python
