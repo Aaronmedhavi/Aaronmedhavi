@@ -4,12 +4,12 @@
 
 <div align="center">
 
-| **Troublemaker Chibi RPG** | **Velocity Pursuit** |
+| **Troublemaker Chibi RPG** | **Berandal City** |
 |:---:|:---:|
 | [![Troublemaker Chibi RPG](https://github.com/Aaronmedhavi/ProjectClips/blob/main/TBM.gif)](https://play.google.com/store/apps/details?id=com.AimToMite.TroublemakerChibiRPG&pcampaignid=web_share) | [![Velocity Pursuit](https://github.com/Aaronmedhavi/ProjectClips/blob/main/Balap.gif)](https://github.com/Aaronmedhavi/Racing-Unity-Game) |
-| Mobile version of Famous Troublemaker Game, an Action RPG with an Epic Story where players can fight enemies causing trouble all around the city, win rewards by completing exciting missions and challenges,  enjoy a thrilling story and epic quests filled with humor, action, and surprises, and collect pets that help you fight and give you special boosts! | Dive into Velocity Pursuit, where you race through dynamic tracks, challenge your limits in time trials, and engage in high-stakes races. As the programmer, I created the main racing mechanic for the AI racer by utilizing waypoints, the main car controller mechanic with gamepad integration, and the UI integration. |
-| [Read More](https://play.google.com/store/apps/details?id=com.AimToMite.TroublemakerChibiRPG&pcampaignid=web_share) | [Read More](https://github.com/Aaronmedhavi/Racing-Unity-Game) |
-| [Download on Google Play](https://play.google.com/store/apps/details?id=com.AimToMite.TroublemakerChibiRPG&pcampaignid=web_share) | [Play Here](https://aaronmedhavi.itch.io/velocity-pursuit) |
+| Troublemaker Chibi RPG is the mobile version of the Troublemaker series, an action RPG where you fight enemies across the city, take on missions and quests for rewards, and collect pets that power you up in battle. As the programmer, I built a ScriptableObject-driven theme system that turns one codebase into fully separate branded builds, a sprite-optimization tool, the "tap-to-crack" gacha feature, and the game's live-ops systems. | Berandal City is a fast-paced action roguelite set in a chaotic city, where you brawl through room after room of enemies using quick melee combat, dashing, parrying, and swapping between characters mid-fight to take down bosses. As the combat programmer, I built the player dash and dodge system, including a perfect-dodge mechanic with invulnerability windows, implemented 12 skill and status effects and 5 boss attack skills, and built full gamepad support with complete controller-driven UI navigation. |
+| [Read More](https://play.google.com/store/apps/details?id=com.AimToMite.TroublemakerChibiRPG&pcampaignid=web_share) | [Read More](https://store.steampowered.com/app/3194660/Berandal_City/) |
+| [Download on Google Play](https://play.google.com/store/apps/details?id=com.AimToMite.TroublemakerChibiRPG&pcampaignid=web_share) | [Wishlist on Steam](https://store.steampowered.com/app/3194660/Berandal_City/) |
 
 
 
