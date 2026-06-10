@@ -25,7 +25,7 @@
 </div>
 
 ## About Me
-Hi there! I'm Aaron, an undergraduate student at Bina Nusantara University in Game Application & Technology. As an aspiring game programmer, I'm passionate about creating immersive, engaging, fun gaming experiences that can be enjoyed by all kinds of people, and continuing to strive for innovation and creativity. I also have experience in sound design, level design, and game writer.
+Game programmer with a shipped mobile RPG on Google Play and a Steam title in development. Combat programmer at an indie studio, solely responsible for building combat systems, multi-phase boss encounters, and full controller support. Experienced in building internal Unity editor tools for asset pipelines, automated themed builds, and sprite optimization.
 
 ## 💼 Skills
 - Languages: C#, C, Python
